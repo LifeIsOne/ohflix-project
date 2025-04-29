@@ -1,3 +1,10 @@
+### 🧑‍💻 개발 명령어
+```bash
+  # docker-compose.yml 실행
+  docker-compose up -d
+  
+  ```
+
 # 🚀 "OHFLIX" - 영상 스트리밍 플랫폼
 
 <br>
@@ -5,8 +12,6 @@
 <p align="center">
   <img src="https://github.com/chugue/project-ohflix/assets/30003848/3ba28c1a-6ab4-444a-8832-e07f103bfe85)"  style="width: 50%; height: auto;"/>
 </p>
-
-
 
 <br>
 
